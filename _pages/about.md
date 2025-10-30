@@ -5,12 +5,8 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+  - /
 ---
----
-permalink: /
-title: "Polina Baron"
-layout: archive
-author_profile: true
 ---
 
 **Math PhD Candidate, University of Chicago.**  
