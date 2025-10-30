@@ -22,9 +22,9 @@ author:
 
   # Academic profiles (fill what you have; leave others blank)
   academia      :
-  arxiv         :                     # e.g., "https://arxiv.org/a/<id>.html" or your author search
-  googlescholar : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  orcid         :                     # e.g., "https://orcid.org/0000-0000-0000-0000"
+  arxiv         :  "https://arxiv.org/a/baron_p_1.html"                   # e.g., "https://arxiv.org/a/<id>.html" or your author search
+  googlescholar : "https://scholar.google.com/citations?user=POXNDOQAAAAJ&hl=en"
+  orcid         :  "https://orcid.org/0000-0002-1202-0952"                   # e.g., "https://orcid.org/0000-0000-0000-0000"
   semantic      :
   pubmed        :
   researchgate  :
