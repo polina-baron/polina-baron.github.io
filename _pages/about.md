@@ -1,12 +1,8 @@
 ---
-permalink: /
-title: "Polina Baron --- Personal website"
+title: "Polina Baron — Personal website"
+layout: archive
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
-  - /
----
+permalink: /
 ---
 
 **Math PhD Candidate, University of Chicago.**  
