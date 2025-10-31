@@ -44,10 +44,13 @@ author:
 publication_category:
   books:
     title: "Books"
+  published:
+    title: "Peer-reviewed articles"
   manuscripts:
-    title: "Journal Articles"
+    title: "Preprints"
   conferences:
     title: "Conference Papers"
+    
 
 # Site Settings
 teaser            :
