@@ -42,16 +42,16 @@ author:
 
 # Publication categories (headings on /publications/)
 publication_category:
-  books:
-    title: "Books"
-  published:
-    title: "Peer-reviewed articles"
+  inprogress:
+    title: "In progress"  
   manuscripts:
     title: "Preprints"
+  published:
+    title: "Peer-reviewed articles"
+  books:
+    title: "Books"
   conferences:
     title: "Conference Papers"
-  inprogress:
-    title: "In progress"
     
 
 # Site Settings
