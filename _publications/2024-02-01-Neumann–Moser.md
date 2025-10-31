@@ -6,8 +6,6 @@ permalink: /publication/2024-neumann-moser-kdv
 date: 2024-02-01
 venue: "arXiv:2402.18079"
 paperurl: "https://arxiv.org/abs/2402.18079"
-slidesurl: ""
-bibtexurl: ""
 citation: "Polina Baron. (2024). \"The Neumann–Moser dynamical system and the Korteweg–de Vries hierarchy.\" <i>arXiv:2402.18079</i>."
 excerpt: |
   <details>
