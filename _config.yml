@@ -50,6 +50,8 @@ publication_category:
     title: "Preprints"
   conferences:
     title: "Conference Papers"
+  inprogress:
+    title: "In progress"
     
 
 # Site Settings
