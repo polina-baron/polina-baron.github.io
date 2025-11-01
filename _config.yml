@@ -1,49 +1,55 @@
+# =========================
 # Basic Site Settings
+# =========================
 locale        : "en-US"
-site_theme    : "default"   # or "air" if you want the lighter academicpages skin
+site_theme    : "default"   # or "air" for the lighter AcademicPages skin
 title         : "Polina Baron"
 title_separator: "–"
 name          : &name "Polina Baron"
 description   : &description "Teichmüller dynamics, translation surfaces, ergodic theory, integrable systems."
-url           : "https://polina-baron.github.io"  # <-- must be lowercase key
-baseurl       : ""                                # user sites keep this empty
+url           : "https://polina-baron.github.io"
+baseurl       : ""          # user sites keep this empty
 repository    : "polina-baron/polina-baron.github.io"
 
+# =========================
 # Site Author (sidebar card)
+# =========================
 author:
-  avatar     : "profile.jpg"        # put a file with this name in /images or root; or leave blank
+  avatar     : "profile.jpg"
   name       : "Polina Baron"
-  pronouns   :                      # e.g., "she/her"
+  pronouns   :
   bio        : "Math PhD Candidate, University of Chicago. Research in Teichmüller dynamics, flat/translation surfaces, ergodic theory, integrable systems."
   location   : "Chicago, IL"
   employer   : "University of Chicago"
   uri        :
   email      : "pbaron@uchicago.edu"
 
-  # Academic profiles (fill what you have; leave others blank)
+  # Academic profiles
   academia      :
-  arxiv         :  "https://arxiv.org/a/baron_p_1.html"                   # e.g., "https://arxiv.org/a/<id>.html" or your author search
+  arxiv         : "https://arxiv.org/a/baron_p_1.html"
   googlescholar : "https://scholar.google.com/citations?user=POXNDOQAAAAJ&hl=en"
-  orcid         :  "https://orcid.org/0000-0002-1202-0952"                   # e.g., "https://orcid.org/0000-0000-0000-0000"
+  orcid         : "https://orcid.org/0000-0002-1202-0952"
   semantic      :
   pubmed        :
   researchgate  :
   scopus        :
 
-  # Code/social (usernames unless noted otherwise)
+  # Code/social
   github        : "polina-baron"
-  linkedin      :                      # e.g., "polina-baron"
-  bluesky       :                      # e.g., "polina.bsky.social" (full handle)
-  mastodon      :                      # full profile URL if used
-  twitter       :                      # X/Twitter handle without @
+  linkedin      :
+  bluesky       :
+  mastodon      :
+  twitter       :
   youtube       :
   wikipedia     :
   zhihu         :
 
+# =========================
 # Publication categories (headings on /publications/)
+# =========================
 publication_category:
   inprogress:
-    title: "In progress"  
+    title: "In progress"
   manuscripts:
     title: "Preprints"
   published:
@@ -53,14 +59,9 @@ publication_category:
   conferences:
     title: "Conference Papers"
 
-
-collections:
-  service:
-    output: true
-    permalink: /service/:path
-    
-
+# =========================
 # Site Settings
+# =========================
 teaser            :
 breadcrumbs       : false
 words_per_minute  : 160
@@ -73,14 +74,18 @@ atom_feed:
   hide            : false
   path            :
 
+# =========================
 # SEO
+# =========================
 google_site_verification :
 bing_site_verification   :
 yandex_site_verification :
 
+# =========================
 # Social sharing defaults
+# =========================
 twitter:
-  username : 
+  username :
 facebook:
   username :
   app_id   :
@@ -92,13 +97,17 @@ social:
   name : "Polina Baron"
   links: []
 
+# =========================
 # Analytics (optional)
+# =========================
 analytics:
   provider : "false"     # set to "google-analytics-4" and add tracking_id if you want GA4
   google:
     tracking_id:
 
+# =========================
 # Reading Files
+# =========================
 include:
   - .htaccess
   - _pages
@@ -136,14 +145,18 @@ keep_files:
 encoding    : "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
+# =========================
 # Conversion
+# =========================
 markdown          : kramdown
 highlighter       : rouge
 lsi               : false
 excerpt_separator : "\n\n"
 incremental       : false
 
+# =========================
 # Markdown Processing
+# =========================
 kramdown:
   input         : GFM
   hard_wrap     : false
@@ -154,7 +167,9 @@ kramdown:
   smart_quotes  : lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
-# Collections
+# =========================
+# Collections (single block)
+# =========================
 collections:
   teaching:
     output   : true
@@ -168,8 +183,13 @@ collections:
   talks:
     output   : true
     permalink: /:collection/:path/
+  service:
+    output   : true
+    permalink: /service/:path/
 
+# =========================
 # Defaults (layouts)
+# =========================
 defaults:
   - scope: { path: "", type: posts }
     values:
@@ -206,17 +226,29 @@ defaults:
       layout         : talk
       author_profile : true
       share          : true
+  - scope: { path: "", type: service }
+    values:
+      layout         : single
+      author_profile : true
+      share          : true
+      comments       : true
 
+# =========================
 # Sass/SCSS
+# =========================
 sass:
   sass_dir: _sass
   style  : compressed
 
+# =========================
 # Output
+# =========================
 permalink: /:categories/:title/
 timezone : America/Chicago
 
+# =========================
 # Plugins (GitHub Pages–compatible)
+# =========================
 plugins:
   - jekyll-feed
   - jekyll-gist
@@ -233,7 +265,9 @@ whitelist:
   - jekyll-redirect-from
   - jemoji
 
+# =========================
 # Archives
+# =========================
 category_archive:
   type: liquid
   path: /categories/
@@ -241,7 +275,9 @@ tag_archive:
   type: liquid
   path: /tags/
 
+# =========================
 # HTML compression
+# =========================
 compress_html:
   clippings: all
   ignore:
