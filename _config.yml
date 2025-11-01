@@ -52,6 +52,12 @@ publication_category:
     title: "Books"
   conferences:
     title: "Conference Papers"
+
+
+collections:
+  service:
+    output: true
+    permalink: /service/:path
     
 
 # Site Settings
