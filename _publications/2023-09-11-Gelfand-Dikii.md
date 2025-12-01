@@ -6,6 +6,7 @@ permalink: /publication/2023-mumford-gelfand-dikii
 date: 2023-10-11
 venue: "Funct. Anal. & Its Appl. 57(4)"
 citation: "Polina Baron. (2023). \"Mumford’s dynamical system and Gelfand–Dikii recursion.\" <i>Funct. Anal. &amp; Its Appl.</i> 57(4)."
+paperurl: "https://arxiv.org/abs/2402.16975"
 excerpt: |
   <details>
     <summary><b>Abstract</b></summary>
