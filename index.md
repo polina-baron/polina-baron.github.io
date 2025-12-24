@@ -1,10 +1,11 @@
 ---
+title: "Math PhD Candidate, University of Chicago"
 layout: archive
 author_profile: true
 permalink: /
 ---
 
-**Math PhD Candidate, University of Chicago. I am on the job market for the year 2026.**  
+**I am on the job market for the year 2026.**  
 
 Hello! My name is Polina Baron. I am a graduate student at the Department of Mathematics at the University of Chicago, projected to graduate in Spring 2026. I enjoy the honour of working with Professor Simion Filip. Before that, I did my Bachelor's degree in Mathematics at HSE (Moscow, Russia; 2016-2020), where I was lucky to work under the guidance of Professor Alexandra (Sasha) Skripchenko.
 
