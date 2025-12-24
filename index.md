@@ -1,5 +1,4 @@
 ---
-title: "Polina Baron — Personal website"
 layout: archive
 author_profile: true
 permalink: /
