@@ -16,4 +16,4 @@ I've got experience in successfully branching out into other areas, having worke
 In my free time, I enjoy crocheting and swimming.
 
 - Email: pbaron@uchicago.edu    
-- [Publications](/publications/) · [Teaching](/teaching/) · [Service](/service/) · [CV (PDF)](/files/Polina-Baron_CV_2025-10-28.pdf)
+- [Publications](/publications/) · [Teaching](/teaching/) · [Service](/service/) · [CV (PDF)](/files/Polina-Baron_CV_2026-01-29.pdf)
