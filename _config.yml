@@ -1,15 +1,15 @@
 # =========================
 # Basic Site Settings
 # =========================
-locale        : "en-US"
-site_theme    : "default"   # or "air" for the lighter AcademicPages skin
-title         : "Polina Baron"
+locale         : "en-US"
+site_theme     : "default"   # or "air" for the lighter AcademicPages skin
+title          : "Polina Baron"
 title_separator: "–"
-name          : &name "Polina Baron"
-description   : &description "Teichmüller dynamics, translation surfaces, ergodic theory, integrable systems."
-url           : "https://polina-baron.github.io"
-baseurl       : ""          # user sites keep this empty
-repository    : "polina-baron/polina-baron.github.io"
+name           : &name "Polina Baron"
+description    : &description "Personal academic website of Polina Baron, a mathematician working in Teichmüller dynamics, translation surfaces, and ergodic theory."
+url            : "https://polina-baron.github.io"
+baseurl        : ""          # user sites keep this empty
+repository     : "polina-baron/polina-baron.github.io"
 
 # =========================
 # Site Author (sidebar card)
@@ -18,11 +18,11 @@ author:
   avatar     : "profile.jpg"
   name       : "Polina Baron"
   pronouns   :
-  bio        : "Math PhD Candidate, University of Chicago. Research in Teichmüller dynamics, flat/translation surfaces, ergodic theory, integrable systems."
-  location   : "Chicago, IL"
-  employer   : "University of Chicago"
+  bio        : "Postdoctoral Fellow in Mathematics at the University of Toronto. Research in Teichmüller dynamics, translation surfaces, and ergodic theory."
+  location   : "Toronto, ON"
+  employer   : "University of Toronto"
   uri        :
-  email      : "pbaron@uchicago.edu"
+  email      : "p.baron@utoronto.ca"
 
   # Academic profiles
   academia      :
@@ -90,8 +90,8 @@ facebook:
   username :
   app_id   :
   publisher:
-og_image        :
-og_description  :
+og_image       :
+og_description : *description
 social:
   type : Person
   name : "Polina Baron"
@@ -150,25 +150,25 @@ markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 # =========================
 markdown          : kramdown
 highlighter       : rouge
-lsi               : false
+lsi                : false
 excerpt_separator : "\n\n"
-incremental       : false
+incremental        : false
 
 # =========================
 # Markdown Processing
 # =========================
 kramdown:
-  input         : GFM
-  hard_wrap     : false
-  auto_ids      : true
-  footnote_nr   : 1
-  entity_output : as_char
-  toc_levels    : 1..6
-  smart_quotes  : lsquo,rsquo,ldquo,rdquo
-  enable_coderay: false
+  input          : GFM
+  hard_wrap      : false
+  auto_ids       : true
+  footnote_nr    : 1
+  entity_output  : as_char
+  toc_levels     : 1..6
+  smart_quotes   : lsquo,rsquo,ldquo,rdquo
+  enable_coderay : false
 
 # =========================
-# Collections (single block)
+# Collections
 # =========================
 collections:
   teaching:
@@ -199,33 +199,39 @@ defaults:
       comments       : true
       share          : true
       related        : true
+
   - scope: { path: "", type: pages }
     values:
       layout         : single
       author_profile : true
+
   - scope: { path: "", type: teaching }
     values:
       layout         : single
       author_profile : true
       share          : true
       comments       : true
+
   - scope: { path: "", type: publications }
     values:
       layout         : single
       author_profile : true
       share          : true
       comments       : true
+
   - scope: { path: "", type: portfolio }
     values:
       layout         : single
       author_profile : true
       share          : true
-      comment        : true
+      comments       : true
+
   - scope: { path: "", type: talks }
     values:
       layout         : talk
       author_profile : true
       share          : true
+
   - scope: { path: "", type: service }
     values:
       layout         : single
@@ -238,13 +244,13 @@ defaults:
 # =========================
 sass:
   sass_dir: _sass
-  style  : compressed
+  style   : compressed
 
 # =========================
 # Output
 # =========================
 permalink: /:categories/:title/
-timezone : America/Chicago
+timezone : America/Toronto
 
 # =========================
 # Plugins (GitHub Pages–compatible)
@@ -272,6 +278,7 @@ whitelist:
 category_archive:
   type: liquid
   path: /categories/
+
 tag_archive:
   type: liquid
   path: /tags/
