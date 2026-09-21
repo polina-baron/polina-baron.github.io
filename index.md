@@ -1,5 +1,5 @@
 ---
-title: "Math PhD Candidate, University of Chicago"
+title: "Postdoctoral Fellow in Mathematics, University of Toronto"
 layout: archive
 author_profile: true
 permalink: /
@@ -12,8 +12,7 @@ University of Toronto, where I work with Professor Kasra Rafi.
 My research is in dynamical systems and ergodic theory, with an emphasis on
 Teichmüller dynamics and translation surfaces. I study rigidity and unique
 ergodicity phenomena, including Hodge-theoretic rigidity for
-$\mathrm{SL}_2(\mathbb{R})$ actions, unique ergodicity of branched covers, and infinite-genus translation surfaces.
-I also work on integrable systems, particularly the KdV hierarchy.
+\\(\mathrm{SL}_2(\mathbb{R})\\) actions, unique ergodicity of branched covers, and rigidity phenomena for infinite-type translation surfaces and interval-exchange transformations. I also work on integrable systems, particularly the KdV hierarchy.
 
 Before joining the University of Toronto, I completed my Ph.D. in Mathematics
 at the University of Chicago under the supervision of Professor Simion Filip.
