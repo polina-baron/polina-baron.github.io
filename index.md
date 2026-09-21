@@ -6,13 +6,26 @@ permalink: /
 ---
 
 
-Hello! My name is Polina Baron. I am a Postdoctoral Fellow at the University of Toronto, where I am fortunate to work with Professor Kasra Rafi. Previously, I was a graduate student in the Department of Mathematics at the University of Chicago, where I had the honour of being advised by Professor Simion Filip. Before that, I completed my Bachelor's degree in Mathematics at HSE (Moscow, Russia; 2016-2020), where I was lucky to work under the guidance of Professor Alexandra (Sasha) Skripchenko.
+Hello! I am a postdoctoral fellow in the Department of Mathematics at the
+University of Toronto, where I work with Professor Kasra Rafi.
 
-I am currently interested in Dynamical Systems and their applications. I study Teichmüller dynamics, translation (flat) surfaces, and ergodic theory. I also have a side project in Integrable Systems (KdV hierarchy). 
+My research is in dynamical systems and ergodic theory, with an emphasis on
+Teichmüller dynamics and translation surfaces. I study rigidity and unique
+ergodicity phenomena, including Hodge-theoretic rigidity for
+$\mathrm{SL}_2(\mathbb{R})$ actions, unique ergodicity of branched covers, and infinite-genus translation surfaces.
+I also work on integrable systems, particularly the KdV hierarchy.
 
-I've got experience in successfully branching out into other areas, having worked as an intern at Microsoft Research, where I focused on Convex Optimization, and at the Institute for Mathematical and Statistical Innovation (IMSI), where I applied Topological Data Analysis and Statistical Physics to study Alzheimer's disease. 
+Before joining the University of Toronto, I completed my Ph.D. in Mathematics
+at the University of Chicago under the supervision of Professor Simion Filip.
+Earlier, I studied at the Higher School of Economics in Moscow, where I worked
+with Professor Alexandra (Sasha) Skripchenko.
 
-In my free time, I enjoy crocheting and swimming.
+I have also worked outside my primary research area: at Microsoft Research on
+the foundations of convex optimization, and at the Institute for Mathematical
+and Statistical Innovation on applications of topological data analysis and
+statistical physics to models of brain activity relevant to Alzheimer's disease.
+
+Outside mathematics, I write speculative fiction, crochet, swim, and hike.
 
 - Email: p.baron@utoronto.ca    
-- [Publications](/publications/) · [Teaching](/teaching/) · [Service](/service/) · [CV (PDF)](/files/Polina-Baron_CV_2026-01-29.pdf)
+- [Publications](/publications/) · [Teaching](/teaching/) · [Service](/service/) · [CV (PDF)](/files/Polina-Baron_CV_2026-09-21.pdf)
