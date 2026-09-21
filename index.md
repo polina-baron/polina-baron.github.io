@@ -19,9 +19,9 @@ at the University of Chicago under the supervision of Professor Simion Filip.
 Earlier, I studied at the Higher School of Economics in Moscow, where I worked
 with Professor Alexandra (Sasha) Skripchenko.
 
-I have also worked outside my primary research area: at Microsoft Research on
+I have also worked outside my primary research area: at Microsoft Research New York on
 the foundations of convex optimization, and at the Institute for Mathematical
-and Statistical Innovation on applications of topological data analysis and
+and Statistical Innovation (IMSI) on applications of topological data analysis and
 statistical physics to models of brain activity relevant to Alzheimer's disease.
 
 Outside mathematics, I write speculative fiction, crochet, swim, and hike.
