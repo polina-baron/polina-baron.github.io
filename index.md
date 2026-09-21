@@ -28,4 +28,4 @@ statistical physics to models of brain activity relevant to Alzheimer's disease.
 Outside mathematics, I write speculative fiction, crochet, swim, and hike.
 
 - Email: p.baron@utoronto.ca    
-- [Publications](/publications/) · [Teaching](/teaching/) · [Service](/service/) · [CV (PDF)](/files/Polina-Baron_CV_2026-09-21.pdf)
+- [Publications](/publications/) · [Teaching](/teaching/) · [Service](/service/) · [CV (PDF)](/files/Polina-Baron_CV.pdf)
