@@ -1,5 +1,5 @@
 ---
-title: "Postdoctoral Fellow in Mathematics, University of Toronto"
+title: "Postdoctoral Fellow (Mathematics), University of Toronto"
 layout: archive
 author_profile: true
 permalink: /
