@@ -12,5 +12,12 @@ excerpt: >-
   topics and coordinating speakers.
 ---
 
-Co-organized a graduate pre-seminar in dynamical systems, including selecting
-topics and coordinating speakers.
+## Overview
+
+I co-organized a graduate pre-seminar in dynamical systems at the University
+of Chicago.
+
+## Responsibilities
+
+- Selected topics for the pre-seminar.
+- Coordinated speakers.
