@@ -13,7 +13,7 @@ Before joining the University of Toronto, I completed my Ph.D. in Mathematics at
 
 I have also worked outside my primary research area: at Microsoft Research New York on the foundations of convex optimization, and at the Institute for Mathematical and Statistical Innovation (IMSI) on applications of topological data analysis and statistical physics to models of brain activity relevant to Alzheimer's disease.
 
-Outside mathematics, I write speculative fiction, crochet, swim, and hike.
+Outside mathematics, I write speculative fiction, crochet, and hike.
 
 - Email: p.baron@utoronto.ca    
 - [Publications](/publications/) · [Teaching](/teaching/) · [Service](/service/) · [CV (PDF)](/files/Polina-Baron_CV.pdf)
